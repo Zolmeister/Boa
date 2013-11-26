@@ -1,7 +1,7 @@
 Boa
 ===
 
-Python built-in functions implemented in javascript
+Python built-in functions implemented in javascript  
 License: MIT
 
 Every relevant function from: http://docs.python.org/2/library/functions.html
