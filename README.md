@@ -1,5 +1,5 @@
-Boa
-===
+Boa.js
+======
 
 Python built-in functions implemented in javascript  
 License: MIT
