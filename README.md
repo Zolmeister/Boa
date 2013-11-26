@@ -8,11 +8,13 @@ ______               _
                    _/ |    
                   |__/     
 ```
-## Boa.js
-
+## boa.js
 
 ####Python built-in functions implemented in javascript  
 License: MIT
+
+`npm install boa`  
+`<script src='boa.js'></script>`
 
 ####Implements every relevant function from: http://docs.python.org/2/library/functions.html
 
