@@ -1,5 +1,5 @@
 {
-  "name": "Boa",
+  "name": "boa",
   "version": "0.0.1",
   "description": "Python built-in functions implemented in javascript",
   "main": "boa.js",
