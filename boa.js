@@ -1,5 +1,4 @@
-var Boa = (function() {
-  
+(function() {
   function reduce(fn, arr, s) {
     var i=0
     if(typeof s === 'undefined'){
@@ -31,7 +30,7 @@ var Boa = (function() {
       return range
     }
   
-  return {
+  var Boa = {
     abs: Math.abs,
     all: function(arr){
       for(var i=0,l=arr.length; i < l ; i++) {
@@ -308,5 +307,13 @@ var Boa = (function() {
         })
       });
     }
+  }
+  
+  if(typeof module !== 'undefined' && module.exports) {
+    module.exports = Boa
+  } else if(typeof window !== 'undefined'){
+    window.Boa = Boa
+  } else {
+    this.Boa = Boa
   }
 })()

@@ -1,0 +1,23 @@
+{
+  "name": "Boa",
+  "version": "0.0.1",
+  "description": "Python built-in functions implemented in javascript",
+  "main": "boa.js",
+  "scripts": {
+    "test": "jasmine-node boa.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Zolmeister/Boa.git"
+  },
+  "keywords": [
+    "javascript",
+    "python",
+    "functions"
+  ],
+  "author": "Zolmeister",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zolmeister/Boa/issues"
+  }
+}
