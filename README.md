@@ -1,10 +1,20 @@
-Boa.js
-======
+```
+______               _     
+| ___ \             (_)    
+| |_/ / ___   __ _   _ ___ 
+| ___ \/ _ \ / _` | | / __|
+| |_/ / (_) | (_| |_| \__ \
+\____/ \___/ \__,_(_) |___/
+                   _/ |    
+                  |__/     
+```
+## Boa.js
 
-Python built-in functions implemented in javascript  
+
+####Python built-in functions implemented in javascript  
 License: MIT
 
-Implements every relevant function from: http://docs.python.org/2/library/functions.html
+####Implements every relevant function from: http://docs.python.org/2/library/functions.html
 
 abs  
 all  
